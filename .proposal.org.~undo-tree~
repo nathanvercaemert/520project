@@ -1,0 +1,8 @@
+(undo-tree-save-format-version . 1)
+"aae06361e09c74c852c5c267118b41fad9713044"
+[nil nil nil nil (25194 63064 388320 0) 0 nil]
+([nil nil ((187 . 188) (t 25146 29345 884528 0)) nil (25194 63064 388318 200000) 0 nil])
+([nil nil ((#("'" 0 1 (fontified t font-lock-fontified t line-prefix "" wrap-prefix "")) . -187) (undo-tree-id1 . -1) 188) nil (25194 63064 388315 700000) 0 nil])
+([nil nil ((187 . 188)) nil (25194 63064 388311 700000) 0 nil])
+([nil current ((#("i" 0 1 (fontified t font-lock-fontified t line-prefix "" wrap-prefix "")) . -187) (undo-tree-id0 . -1) 188) nil (25194 63064 388306 900000) 0 nil])
+nil

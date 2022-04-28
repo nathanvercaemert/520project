@@ -1,0 +1,23 @@
+Presentation timeline
+
+What is the problem. - Nathan
+Why we know our solution is the way to do it. - Nathan
+List - Talk about them more after Kelly if time
+* Early Termination
+* Pure Symbol Heuristic
+* Unit Clause Heuristic
+* Component Analysis
+* Variable and Value Ordering
+* Intelligent Backtracking
+* Random Restarts
+* Clever Indexing
+
+How we're going to approach it - Kelly
+
+Diagrams
+
+Fill Time - Nathan
+
+
+Cutoff in time for 2 minutes demo:
+Kasimir will explain why it matters, both in general and specifically the optimizations
